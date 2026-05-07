@@ -5,25 +5,25 @@ Built using **HTML**, **CSS**, and **JavaScript**, this project is lightweight, 
 
 ---
 
+## 🧩 Project Structure
+
+```
+Simple-Image-Preview/
+│
+├── index.html     # Main HTML file
+├── style.css      # Styling for layout and design
+├── script.js      # JavaScript for live preview functionality
+├── LICENSE
+└── README.md      # Documentation
+```
+---
+
 ## 🚀 Features
 
 - 📂 Upload any image file (`.jpg`, `.png`, `.gif`, etc.)  
 - ⚡ Instantly preview the selected image before uploading  
 - 🎨 Clean and modern user interface  
 - 📱 Responsive layout for all screen sizes  
-
----
-
-## 🧩 Project Structure
-
-```
-Simple-Image-Preview/
- ├── index.html     # Main HTML file
- ├── style.css      # Styling for layout and design
- ├── script.js      # JavaScript for live preview functionality
- ├── LICENSE
- └── README.md      # Documentation
-```
 
 ---
 
@@ -36,28 +36,33 @@ Simple-Image-Preview/
 
 ---
 
-## 🖥️ Usage
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com//.git
-   cd Simple-Image-Preview
-   ```
-2. Open `index.html` in your browser.  
-3. Select an image file — it will appear right away!
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3**
-- **Vanilla JavaScript (ES6)**
+- **Vanilla JavaScript**
 
 ---
 
-##  Author
+## ▶️ How to Run
 
+### 1️⃣ Clone the Repository
 
+```bash
+git clone https://github.com/sagesakshi27/Simple-Image-Preview.git
+cd Simple-Image-Preview
+```
+
+### 2️⃣ Open the Project
+
+Open `index.html` in any modern web browser.
+
+---
+
+## 👩‍💻 Author
+
+> **Developer:**  **Sakshi Chavan**
+
+> **Github:** **[sagesakshi27](https://github.com/sagesakshi27)**
 
 ---
