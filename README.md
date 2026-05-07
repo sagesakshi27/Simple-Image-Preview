@@ -10,11 +10,11 @@ Built using **HTML**, **CSS**, and **JavaScript**, this project is lightweight, 
 ```
 Simple-Image-Preview/
 │
-├── index.html     # Main HTML file
-├── style.css      # Styling for layout and design
-├── script.js      # JavaScript for live preview functionality
+├── index.html      # Main HTML file
+├── styles.css      # Styling for layout and design
+├── script.js       # JavaScript for live preview functionality
 ├── LICENSE
-└── README.md      # Documentation
+└── README.md       # Documentation
 ```
 ---
 
